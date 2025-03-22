@@ -1,6 +1,6 @@
-# java_spring-boot_h2 tunnel
+# java_app_rest_service tunnel
 
-This is a free to reuse - end to end basic(CRUD) app using "java swing, spring boot, spring-data-jpa and h2 database" with maven. 
+This is a free to reuse - end to end basic(CRUD) app using "java swing, rest api" with maven. 
 Please also have a look at the license file.
 
 If you find it is useful for you and the community and more end to end applications should be developed, please consider hitting that sponsorship button on the right! or if you feel like, just buy me a coffee!
@@ -11,13 +11,14 @@ If you find it is useful for you and the community and more end to end applicati
 
 - git
 - jdk 17
-- apache-maven-3.9.8 
+- apache-maven-3.9.8
+- running instance of [spring-rest-service](https://github.com/tunnels4u/spring-rest-service.git)
 
 **Run following commands in your terminal**
 
 -  cd path_where_you_wantto_keep_the_project/
--  git clone https://github.com/tunnels4u/javaapp_spring_h2.git
--  cd javaapp_spring_h2
+-  git clone https://github.com/tunnels4u/javaapp.git
+-  cd javaapp
 -  mvn compile
 -  mvn exec:java
 
