@@ -17,7 +17,7 @@ If you find it is useful for you and the community and more end to end applicati
 **Run following commands in your terminal**
 
 -  cd path_where_you_wantto_keep_the_project/
--  git clone https://github.com/tunnels4u/javaapp.git
+-  git clone https://github.com/tunnels4u/javapp.git
 -  cd javaapp
 -  mvn compile
 -  mvn exec:java
